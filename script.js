@@ -1,4 +1,4 @@
-const API_KEY = "yzrevBAkpJvECWG3Bgpn1xHdXA30QfTU8xm975pY"; 
+const API_KEY = "API from api.nasa.gov"; 
 const APOD_URL = `https://api.nasa.gov/planetary/apod?api_key=${API_KEY}`;
 
 fetch(APOD_URL)
